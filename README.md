@@ -13,3 +13,5 @@ also pls feel free to donate smol amounts of ether so i can eventually use it to
 https://github.com/b2b-hbb/
 
 https://www.tally.xyz/profile/0x7992782439df2dc4e3573877ee8c4ebcd6071561
+
+if anyone want to chat, reach out to `b_2_b_hbb@proton.me`
