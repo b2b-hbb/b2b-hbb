@@ -1,16 +1,14 @@
-## Hi there 👋
+just a chill guy who's back 2 building
 
-<!--
-**b2b-hbb/b2b-hbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+initially opensourced two projects focused on Arbitrum which I built a couple months ago
+they are rough, but delegate some tokens to me and that will motivate me to polish them and keep on building
 
-Here are some ideas to get you started:
+i like to think im technical and understand whats going on with this arbitrum tech
+i'll use voting power delegated to me to best of my ability to improve dao
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ty glhf
+
+also pls feel free to donate smol amounts of ether so i can eventually use it to deploy stuff 0x7992782439df2dc4e3573877ee8c4ebcd6071561
+
+https://github.com/b2b-hbb/
+https://www.tally.xyz/profile/0x7992782439df2dc4e3573877ee8c4ebcd6071561
